@@ -16,8 +16,8 @@
 📌 openpyxl: for reading and writing Excel files. </br>
 
 ## 🔰How to Setup the project: </br>
-📌 Import in VS code </br>
-📌 Uncomment Required Library module and install </br>
+📌 Import file "Project.ipynb" in VS code </br>
+📌 Uncomment Required Library module and run cell to install </br>
 📌 Run all Cell and see the output in graph </br>
 
 ## 🔰 Final Output of Project: </br>
