@@ -1,0 +1,101 @@
+Transaction_ID,Customer_Name,Customer_Feedback,Transaction_Amount,Transaction_Date
+1,David White,Worth the price!,252.27,2025-03-02
+2,Eva Green,Not satisfied with quality.,149.25,2025-03-02
+3,David White,Product arrived late.,614.01,2025-03-06
+4,Grace King,"Great product, would buy again!",117.75,2025-03-02
+5,Jane Smith,Not satisfied with quality.,230.84,2025-03-02
+6,Jane Smith,Not what I expected.,293.55,2025-03-08
+7,Eva Green,"Fast delivery, happy with purchase.",358.04,2025-03-03
+8,Henry Lee,Worth the price!,660.61,2025-03-05
+9,Alice Brown,Very satisfied!,213.09,2025-03-03
+10,Jane Smith,Product arrived late.,72.23,2025-03-09
+11,Grace King,Very satisfied!,771.07,2025-03-10
+12,John Doe,Not satisfied with quality.,649.66,2025-03-10
+13,Jane Smith,"Loved it, will recommend!",205.8,2025-03-06
+14,Alice Brown,Excellent customer service.,143.57,2025-03-10
+15,Eva Green,"Loved it, will recommend!",332.65,2025-03-01
+16,Alice Brown,"Fast delivery, happy with purchase.",384.61,2025-03-02
+17,Jane Smith,Not satisfied with quality.,314.42,2025-03-08
+18,John Doe,Very satisfied!,140.48,2025-03-03
+19,Charlie Clark,"Great product, would buy again!",438.27,2025-03-06
+20,Grace King,Very satisfied!,699.9,2025-03-07
+21,Henry Lee,Quality is great.,238.15,2025-03-01
+22,Jane Smith,Quality is great.,81.0,2025-03-08
+23,Bob Johnson,Not satisfied with quality.,241.57,2025-03-07
+24,Charlie Clark,Not what I expected.,277.72,2025-03-09
+25,Henry Lee,Not what I expected.,600.31,2025-03-07
+26,Charlie Clark,Product arrived late.,114.12,2025-03-05
+27,Jane Smith,Product arrived late.,157.12,2025-03-07
+28,Charlie Clark,"Great product, would buy again!",894.24,2025-03-04
+29,Eva Green,Very satisfied!,790.06,2025-03-02
+30,Eva Green,"Great product, would buy again!",385.5,2025-03-08
+31,Eva Green,"Great product, would buy again!",168.85,2025-03-09
+32,David White,Excellent customer service.,396.21,2025-03-10
+33,John Doe,Worth the price!,398.86,2025-03-05
+34,David White,Not satisfied with quality.,726.56,2025-03-01
+35,Charlie Clark,"Fast delivery, happy with purchase.",23.21,2025-03-09
+36,Alice Brown,"Great product, would buy again!",954.86,2025-03-02
+37,Charlie Clark,Quality is great.,823.74,2025-03-05
+38,Jane Smith,Excellent customer service.,386.53,2025-03-02
+39,David White,Excellent customer service.,517.95,2025-03-04
+40,Henry Lee,Product arrived late.,204.28,2025-03-01
+41,Alice Brown,"Loved it, will recommend!",257.95,2025-03-07
+42,Eva Green,"Fast delivery, happy with purchase.",888.41,2025-03-08
+43,Alice Brown,Very satisfied!,437.18,2025-03-05
+44,Frank Harris,Excellent customer service.,194.31,2025-03-04
+45,Bob Johnson,Very satisfied!,318.2,2025-03-06
+46,Bob Johnson,Quality is great.,65.22,2025-03-08
+47,Henry Lee,"Great product, would buy again!",208.39,2025-03-02
+48,David White,Product arrived late.,590.74,2025-03-06
+49,David White,Quality is great.,94.85,2025-03-09
+50,David White,Not satisfied with quality.,242.32,2025-03-01
+51,Jane Smith,"Loved it, will recommend!",834.34,2025-03-03
+52,Grace King,"Loved it, will recommend!",101.48,2025-03-02
+53,John Doe,Very satisfied!,644.52,2025-03-07
+54,Henry Lee,Quality is great.,431.35,2025-03-06
+55,Grace King,"Loved it, will recommend!",546.15,2025-03-05
+56,Jane Smith,Excellent customer service.,885.41,2025-03-08
+57,John Doe,Product arrived late.,426.96,2025-03-01
+58,Alice Brown,"Great product, would buy again!",833.06,2025-03-01
+59,Jane Smith,Worth the price!,494.1,2025-03-09
+60,Charlie Clark,Quality is great.,515.72,2025-03-10
+61,Frank Harris,Not what I expected.,382.39,2025-03-10
+62,Alice Brown,"Loved it, will recommend!",639.05,2025-03-04
+63,Charlie Clark,Very satisfied!,362.42,2025-03-10
+64,Bob Johnson,Quality is great.,732.2,2025-03-10
+65,John Doe,Quality is great.,133.81,2025-03-03
+66,Jane Smith,Worth the price!,272.71,2025-03-08
+67,Eva Green,"Fast delivery, happy with purchase.",807.07,2025-03-04
+68,Eva Green,Product arrived late.,194.43,2025-03-03
+69,Frank Harris,"Loved it, will recommend!",651.08,2025-03-03
+70,John Doe,Excellent customer service.,390.93,2025-03-09
+71,Charlie Clark,Product arrived late.,128.15,2025-03-06
+72,Charlie Clark,Excellent customer service.,322.69,2025-03-10
+73,Charlie Clark,Excellent customer service.,626.46,2025-03-08
+74,Grace King,Excellent customer service.,480.11,2025-03-05
+75,Jane Smith,Not what I expected.,871.41,2025-03-08
+76,Charlie Clark,Excellent customer service.,172.65,2025-03-06
+77,Frank Harris,Product arrived late.,729.7,2025-03-04
+78,Bob Johnson,"Loved it, will recommend!",239.76,2025-03-02
+79,Bob Johnson,Excellent customer service.,732.37,2025-03-10
+80,Charlie Clark,Very satisfied!,779.3,2025-03-08
+81,David White,"Fast delivery, happy with purchase.",108.43,2025-03-07
+82,David White,Product arrived late.,949.43,2025-03-03
+83,Alice Brown,Not satisfied with quality.,172.98,2025-03-07
+84,Eva Green,"Great product, would buy again!",995.34,2025-03-02
+85,Eva Green,Excellent customer service.,479.95,2025-03-01
+86,Charlie Clark,Not what I expected.,742.3,2025-03-08
+87,Grace King,Quality is great.,367.9,2025-03-06
+88,Bob Johnson,Excellent customer service.,255.68,2025-03-09
+89,Eva Green,Not satisfied with quality.,827.01,2025-03-08
+90,Grace King,"Great product, would buy again!",922.95,2025-03-09
+91,Bob Johnson,Not what I expected.,647.92,2025-03-10
+92,Frank Harris,Very satisfied!,699.12,2025-03-07
+93,Eva Green,"Great product, would buy again!",298.35,2025-03-07
+94,Henry Lee,Not what I expected.,866.04,2025-03-06
+95,Alice Brown,Not what I expected.,817.47,2025-03-03
+96,Alice Brown,"Loved it, will recommend!",623.15,2025-03-08
+97,Charlie Clark,Quality is great.,399.15,2025-03-02
+98,Charlie Clark,Worth the price!,263.3,2025-03-07
+99,Bob Johnson,Product arrived late.,120.09,2025-03-09
+100,John Doe,Excellent customer service.,951.96,2025-03-08
